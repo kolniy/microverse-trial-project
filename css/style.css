@@ -1,0 +1,34 @@
+#nav {
+    background-color: #BE3144;
+    height: 50px;
+    padding: 5px;
+}
+
+.styled-nav {
+    float: right;
+    margin-right: 30px;
+}
+
+.styled-nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    height: 50px;
+}
+
+.styled-nav li {
+    display: inline;
+    max-width: 70px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.styled-nav li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.styled-nav li a:hover {
+    background-color: #45567d;
+    height: 50px;
+}
+
