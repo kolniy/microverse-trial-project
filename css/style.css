@@ -32,3 +32,12 @@
     height: 50px;
 }
 
+#welcome-section {
+    background-color: #212123;
+    padding: 25px;
+    height: 400px;
+}
+
+#welcome-section h1 {
+    color: white;
+}
