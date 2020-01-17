@@ -34,10 +34,26 @@
 
 #welcome-section {
     background-color: #212123;
-    padding: 25px;
+    padding: 60px 35px;
     height: 400px;
 }
 
 #welcome-section h1 {
     color: white;
+    font-weight: 800;
 }
+
+#welcome-section p {
+    color: #BE3144;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+#projects {
+    background-color: #45567D;
+}
+
+.project-tile img {
+    width: 500px;
+}
+
